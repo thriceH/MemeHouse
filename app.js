@@ -238,7 +238,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "THRICE HAOBAM",
     roll: "NDUIBC2500", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: "./images/thrice.jpg", reason: "thinkkkkinggg" },
   { name: "KSHETRIMAYUM BILLION SINGH",
     roll: "NDUIBC2501", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
